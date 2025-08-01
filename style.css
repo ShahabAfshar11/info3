@@ -1,0 +1,52 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1589578527966-fdac0f44566c?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGF3eWVyfGVufDB8fDB8fHww');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 95px;
+    margin-top: 100px;
+    background-color: #4CAF50;
+    padding: 80px;
+}
+
+h2 {
+    color: white;
+    font-size: 25px;
+    background-color : deepskyblue;
+    padding: 25px;
+    border-radius: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    
+}
+
+button {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 45px;
+    margin: 4px 2px;
+    margin-left: 45px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.your-class {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+.go {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+}
